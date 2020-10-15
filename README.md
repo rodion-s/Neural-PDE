@@ -1,7 +1,7 @@
 # Neural-PDE
 Solving Laplace Equation using neural networks
 
-### Example 1
+## Example 1
 <p align="center">
 <img align="middle" src="./assets/Task1_g.png" width="705" height="347"/>
 </p>
