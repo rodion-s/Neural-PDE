@@ -25,7 +25,7 @@ Solving Laplace Equation using neural networks
 <img align="middle" src="./assets/Task_combined_g.png" width="782" height="463"/>
 </p>
 <p align="center">
-<img align="middle" src="./assets/TaskCombined.gif"  width="800" height="600"/>
+<img align="middle" src="./assets/TaskCombined_10.gif"  width="800" height="600"/>
 </p>
 
 <p align="center">
