@@ -43,7 +43,7 @@ Solving Laplace Equation using neural networks
 
 ## Example 6
 <p align="center">
-<img align="middle" src="./assets/Task_combined_four_g_fixed.png" width="617" height="457"/>
+<img align="middle" src="./assets/Task_combined_four_g_fixed_fixed.png" width="600" height="455"/>
 </p>
 <p align="center">
 <img align="middle" src="./assets/TaskCombinedFour_10.gif"  width="800" height="600"/>
