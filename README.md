@@ -66,3 +66,19 @@ Solving Laplace Equation using neural networks
 <p align="center">
 <img align="middle" src="./assets/TaskNosinCombined.gif"  width="800" height="600"/>
 </p>
+
+## Example 9
+<p align="center">
+<img align="middle" src="./assets/bernstein1.png"/>
+</p>
+<p align="center">
+<img align="middle" src="./assets/TaskBern1.gif"  width="800" height="600"/>
+</p>
+
+## Example 10
+<p align="center">
+<img align="middle" src="./assets/bernstein2.png"/>
+</p>
+<p align="center">
+<img align="middle" src="./assets/TaskBern2.gif"  width="800" height="600"/>
+</p>
