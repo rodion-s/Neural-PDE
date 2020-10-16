@@ -56,7 +56,7 @@ Solving Laplace Equation using neural networks
 <img align="middle" src="./assets/nosin_sq_fixed_g.png"/>
 </p>
 <p align="center">
-<img align="middle" src="./assets/TaskNosin_XSquared.gif"  width="800" height="600"/>
+<img align="middle" src="./assets/TaskNosinXSquared.gif"  width="800" height="600"/>
 </p>
 
 ## Example 8
