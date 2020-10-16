@@ -80,5 +80,5 @@ Solving Laplace Equation using neural networks
 <img align="middle" src="./assets/bernstein2.png"/>
 </p>
 <p align="center">
-<img align="middle" src="./assets/TaskBern2.gif"  width="800" height="600"/>
+<img align="middle" src="./assets/TaskBern2_good.gif"  width="800" height="600"/>
 </p>
