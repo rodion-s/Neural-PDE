@@ -53,7 +53,7 @@ Solving Laplace Equation using neural networks
 
 ## Example 7
 <p align="center">
-<img align="middle" src="./assets/nosin_sq_g.png"/>
+<img align="middle" src="./assets/nosin_sq_fixed_g.png"/>
 </p>
 <p align="center">
 <img align="middle" src="./assets/TaskNosin_XSquared.gif"  width="800" height="600"/>
@@ -61,7 +61,7 @@ Solving Laplace Equation using neural networks
 
 ## Example 8
 <p align="center">
-<img align="middle" src="./assets/nosin_combined_g.png"/>
+<img align="middle" src="./assets/nosin_combined_fixed_g.png"/>
 </p>
 <p align="center">
 <img align="middle" src="./assets/TaskNosinCombined.gif"  width="800" height="600"/>
