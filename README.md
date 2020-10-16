@@ -77,7 +77,7 @@ Solving Laplace Equation using neural networks
 
 ## Example 10
 <p align="center">
-<img align="middle" src="./assets/bernstein2.png"/>
+<img align="middle" src="./assets/bern2_good.png"/>
 </p>
 <p align="center">
 <img align="middle" src="./assets/TaskBern2_good.gif"  width="800" height="600"/>
