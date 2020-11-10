@@ -3,10 +3,10 @@ Solving Laplace Equation using neural networks
 
 ## Example 1
 <p align="center">
-<img align="middle" src="./assets/Task1_g.png" width="705" height="347"/>
+<img align="middle" src="./assets/nosin_sq_fixed_g.png"/>
 </p>
 <p align="center">
-<img align="middle" src="./assets/Task1_10.gif"  width="800" height="600"/>
+<img align="middle" src="./assets/TaskNosinXSquared.gif"  width="800" height="600"/>
 </p>
 
 ## Example 2
@@ -49,15 +49,15 @@ Solving Laplace Equation using neural networks
 <img align="middle" src="./assets/TaskCombinedFour_10.gif"  width="800" height="600"/>
 </p>
 
-
-
-## Example 7
+## Example 7 (simple)
 <p align="center">
-<img align="middle" src="./assets/nosin_sq_fixed_g.png"/>
+<img align="middle" src="./assets/Task1_g.png" width="705" height="347"/>
 </p>
 <p align="center">
-<img align="middle" src="./assets/TaskNosinXSquared.gif"  width="800" height="600"/>
+<img align="middle" src="./assets/Task1_10.gif"  width="800" height="600"/>
 </p>
+
+
 
 ## Example 8
 <p align="center">
