@@ -11,11 +11,13 @@ Solving Laplace Equation using neural networks
 
 ## Example 2
 <p align="center">
-<img align="middle" src="./assets/Task21_g.png" width="743" height="374"/>
+<img align="middle" src="./assets/bernstein1.png"/>
 </p>
 <p align="center">
-<img align="middle" src="./assets/Task21_10.gif"  width="800" height="600"/>
+<img align="middle" src="./assets/TaskBern1.gif"  width="800" height="600"/>
 </p>
+
+
 
 ## Example 3
 <p align="center">
@@ -69,10 +71,10 @@ Solving Laplace Equation using neural networks
 
 ## Example 9
 <p align="center">
-<img align="middle" src="./assets/bernstein1.png"/>
+<img align="middle" src="./assets/Task21_g.png" width="743" height="374"/>
 </p>
 <p align="center">
-<img align="middle" src="./assets/TaskBern1.gif"  width="800" height="600"/>
+<img align="middle" src="./assets/Task21_10.gif"  width="800" height="600"/>
 </p>
 
 ## Example 10
